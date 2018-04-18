@@ -20,21 +20,28 @@ rjson = json.load(open(file_name, 'r', encoding="utf-8"))
 print("Loaded Json")
 
 # TSV file for research output
-rtsv = open("researchAnalysed.tsv", 'w', encoding="utf-8")
+rtsv = open("researchAnalyzed.tsv", 'w', encoding="utf-8")
 rtsv.write('Title\tAbstract\tKeywords\n')
+
+ortsv = open("otherResearchAnalyzed.tsv", 'w', encoding="utf-8")
+ortsv.write('Title\tAbstract\n')
 
 # Accumulators
 articles = 0
 susArticles = 0
+total = 0
+skipped = 0
 susAuthors = []
 allAuthors = []
 
-# For all the results in the json 
+# For all the results in the json
 for robj in rjson:
     try:
-        articles+=1
+        total+=1
         rTitle = robj['title'].replace('\n',' ').replace('\r',' ').replace('\t', ' ')
         rAbs = robj['abstract'].replace('\n',' ').replace('\r',' ').replace('\t', ' ')
+        # Count only after possible failure to find title/abstract
+        articles+=1
 
         # Get all the authors into a list
         creators = []
@@ -54,10 +61,15 @@ for robj in rjson:
             rtsv.write("{}\t{}\t{}\n".format(
                 rTitle, rAbs, ','.join(matchesL)))
             susAuthors += creators
-                
+        else:
+            ortsv.write("{}\t{}\n".format(
+                rTitle, rAbs))
+
     except KeyError:
-            continue
+        skipped+=1
+        continue
 rtsv.close()
+ortsv.close()
 
 susAuthors = sorted(list(set(susAuthors)))
 allAuthors = sorted(list(set(allAuthors)))
@@ -75,7 +87,9 @@ atsv.close()
 
 # Print Results
 print("Done")
-print("Analysed {} research articles".format(articles))
+print("Found {} items".format(total))
+print("Skipped {}".format(skipped))
+print("Analyzed {} research articles".format(articles))
 print("Found {} sustainability research articles".format(susArticles))
 print("Found {} authors, {} writing sustainability related articles"
       .format(len(allAuthors), len(susAuthors)))
