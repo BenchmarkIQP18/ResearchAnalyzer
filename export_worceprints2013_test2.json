@@ -1,0 +1,1725 @@
+[
+    {
+      "status_changed": "2017-06-07 12:51:44",
+      "uri": "https:\/\/eprints.worc.ac.uk\/id\/eprint\/5543",
+      "rioxx2_type": "Journal Article\/Review",
+      "rioxx2_license_ref": {
+        "license_ref": "http:\/\/creativecommons.org\/licenses\/by\/4.0",
+        "start_date": "2017-11"
+      },
+      "publisher": "Springer Netherlands",
+      "date": "2017-11",
+      "rioxx2_subject": [
+        "GE",
+        "Q1",
+        "QH301"
+      ],
+      "eprintid": 5543,
+      "rioxx2_version": "VoR",
+      "rev_number": 23,
+      "rioxx2_publication_date": "2017-11",
+      "refereed": "TRUE",
+      "abstract": "Exposure to elevated air pollution levels can\r\naggravate pollen allergy symptoms. The aim of this study\r\nwas to investigate the relationships between airborne\r\nbirch (Betula) pollen, urban air pollutants NO2, O3 and\r\nPM10 and their effects on antihistamine demand in\r\nGothenburg and Malmo¨, Sweden, 2006–2012. Further,\r\nthe influence of large-scale weather pattern on pollen-\/\r\npollution-related risk, using Lambweather types (LWTs),\r\nwas analysed. Daily LWTs were obtained by comparing\r\nthe atmospheric pressure over a 16-point grid system over\r\nsouthern Sweden (scale *3000 km). They include two\r\nnon-directional types, cyclonic (C) and anticyclonic\r\n(A) and eight directional types depending on the wind\r\ndirection (N, NE, E…). Birch pollen levels were\r\nexceptionally high under LWTs E and SE in both cities.\r\nFurthermore, LWTs with dry and moderately calm\r\nmeteorological character (A, NE, E, SE) were associated\r\nwith strongly elevated air pollution (NO2 and PM10) in\r\nGothenburg. For most weather situations in both cities,\r\nsimultaneously high birch pollen together with high air\r\npollution had larger over-the-counter (OTC) sales of\r\nantihistamines than situations with high birch pollen\r\nalone. LWTs NE, E, SE and S had the highest OTC sales\r\nin both cities. InGothenburg, the city with a higher load of\r\nboth birch pollen and air pollution, the higher OTC sales\r\nwere especially obvious and indicate an increased effect\r\non allergic symptoms from air pollution. Furthermore,\r\nGothenburgLWTs A, NE, E and SEwere associatedwith\r\nhigh pollen and air pollution levels and thus classified as\r\nhigh-risk weather types. In Malmo¨, corresponding highrisk\r\nLWTs were NE, E, SE and S. Furthermore,\r\noccurrence of high pollen and air pollutants as well as\r\nOTC sales correlated strongly with vapour pressure\r\ndeficit and temperature in Gothenburg (much less so in\r\nMalmo¨). This provides evidence that the combination of\r\nmeteorological properties associated with LWTs can\r\nexplain high levels of birch pollen and air pollution. Our\r\nstudy shows that LWTs represent a useful tool for\r\nintegrated daily air quality forecasting\/warning.",
+      "userid": 4163,
+      "dir": "disk0\/00\/00\/55\/43",
+      "rioxx2_identifier": "http:\/\/eprints.worc.ac.uk\/5543\/1\/Grundstrom_etal2017.pdf",
+      "type": "article",
+      "full_text_status": "public",
+      "rioxx2_version_of_record": "http:\/\/dx.doi.org\/10.1007\/s10453-017-9478-2",
+      "rioxx2_relation": [
+        "https:\/\/link.springer.com\/journal\/10453"
+      ],
+      "rioxx2_dateAccepted": "2017-03-08",
+      "rioxx2_description": "Exposure to elevated air pollution levels can\r\naggravate pollen allergy symptoms. The aim of this study\r\nwas to investigate the relationships between airborne\r\nbirch (Betula) pollen, urban air pollutants NO2, O3 and\r\nPM10 and their effects on antihistamine demand in\r\nGothenburg and Malmo¨, Sweden, 2006–2012. Further,\r\nthe influence of large-scale weather pattern on pollen-\/\r\npollution-related risk, using Lambweather types (LWTs),\r\nwas analysed. Daily LWTs were obtained by comparing\r\nthe atmospheric pressure over a 16-point grid system over\r\nsouthern Sweden (scale *3000 km). They include two\r\nnon-directional types, cyclonic (C) and anticyclonic\r\n(A) and eight directional types depending on the wind\r\ndirection (N, NE, E…). Birch pollen levels were\r\nexceptionally high under LWTs E and SE in both cities.\r\nFurthermore, LWTs with dry and moderately calm\r\nmeteorological character (A, NE, E, SE) were associated\r\nwith strongly elevated air pollution (NO2 and PM10) in\r\nGothenburg. For most weather situations in both cities,\r\nsimultaneously high birch pollen together with high air\r\npollution had larger over-the-counter (OTC) sales of\r\nantihistamines than situations with high birch pollen\r\nalone. LWTs NE, E, SE and S had the highest OTC sales\r\nin both cities. InGothenburg, the city with a higher load of\r\nboth birch pollen and air pollution, the higher OTC sales\r\nwere especially obvious and indicate an increased effect\r\non allergic symptoms from air pollution. Furthermore,\r\nGothenburgLWTs A, NE, E and SEwere associatedwith\r\nhigh pollen and air pollution levels and thus classified as\r\nhigh-risk weather types. In Malmo¨, corresponding highrisk\r\nLWTs were NE, E, SE and S. Furthermore,\r\noccurrence of high pollen and air pollutants as well as\r\nOTC sales correlated strongly with vapour pressure\r\ndeficit and temperature in Gothenburg (much less so in\r\nMalmo¨). This provides evidence that the combination of\r\nmeteorological properties associated with LWTs can\r\nexplain high levels of birch pollen and air pollution. Our\r\nstudy shows that LWTs represent a useful tool for\r\nintegrated daily air quality forecasting\/warning.",
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/link.springer.com\/article\/10.1007\/s10453-017-9478-2",
+      "rioxx2_source": "0393-5965  Online: 1573-3025",
+      "issn": "0393-5965  Online: 1573-3025",
+      "contact_email": "m.grundstrom@worc.ac.uk",
+      "copyright_holders": [
+        "Open Access article"
+      ],
+      "rioxx2_free_to_read": {
+        "free_to_read": "Yes"
+      },
+      "dates": [
+        {
+          "date_type": "accepted",
+          "date": "2017-03-08"
+        },
+        {
+          "date_type": "published_online",
+          "date": "2017-04-06"
+        },
+        {
+          "date_type": "published",
+          "date": "2017-11"
+        }
+      ],
+      "number": 4,
+      "publication": "Aerobiologia",
+      "keywords": "pollen,  Betula,  birch,  air pollution, weather type, antihistamine",
+      "divisions": [
+        "sci"
+      ],
+      "id_number": "10.1007\/s10453-017-9478-2",
+      "eprint_status": "archive",
+      "documents": [
+          {
+            "language": "en",
+            "docid": 12712,
+            "content": "published",
+            "files": [
+                {
+                  "hash": "4786a76b618b83113a55019875a29418",
+                  "filename": "Grundstrom_etal2017.pdf",
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/120546",
+                  "filesize": 711517,
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-06 13:30:46",
+                  "fileid": 120546,
+                  "objectid": 12712
+                }
+            ],
+            "license": "cc_by",
+            "format": "text",
+            "rev_number": 3,
+            "eprintid": 5543,
+            "security": "public",
+            "main": "Grundstrom_etal2017.pdf",
+            "mime_type": "application\/pdf",
+            "pos": 1,
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/12712",
+            "placement": 1
+          },
+          {
+            "eprintid": 5543,
+            "rev_number": 2,
+            "format": "other",
+            "formatdesc": "Thumbnails conversion from text to thumbnail_lightbox",
+            "placement": 2,
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/12713",
+            "security": "public",
+            "main": "lightbox.jpg",
+            "mime_type": "image\/png",
+            "pos": 2,
+            "relation": [
+              {
+                "uri": "\/id\/document\/12712",
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf"
+              },
+              {
+                "uri": "\/id\/document\/12712",
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/islightboxThumbnailVersionOf",
+                "uri": "\/id\/document\/12712"
+              }
+            ],
+            "language": "en",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-06 13:40:52",
+                  "fileid": 120549,
+                  "objectid": 12713,
+                  "hash": "f4125698f23a6b5998fc10227db96e6a",
+                  "filename": "lightbox.jpg",
+                  "datasetid": "document",
+                  "mime_type": "image\/png",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/120549",
+                  "filesize": 39205
+                }
+            ],
+            "docid": 12713
+          },
+          {
+            "relation": [
+              {
+                "uri": "\/id\/document\/12712",
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf",
+                "uri": "\/id\/document\/12712"
+              },
+              {
+                "uri": "\/id\/document\/12712",
+                "type": "http:\/\/eprints.org\/relation\/ispreviewThumbnailVersionOf"
+              }
+            ],
+            "language": "en",
+            "docid": 12714,
+            "files": [
+                {
+                  "objectid": 12714,
+                  "fileid": 120550,
+                  "mtime": "2017-06-06 13:40:53",
+                  "hash_type": "MD5",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/120550",
+                  "mime_type": "image\/png",
+                  "filename": "preview.jpg",
+                  "datasetid": "document",
+                  "hash": "2cdef682e71607b43e7ceaa2302093a8",
+                  "filesize": 15355
+                }
+            ],
+            "format": "other",
+            "formatdesc": "Thumbnails conversion from text to thumbnail_preview",
+            "eprintid": 5543,
+            "rev_number": 2,
+            "placement": 3,
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/12714",
+            "main": "preview.jpg",
+            "security": "public",
+            "pos": 3,
+            "mime_type": "image\/png"
+          },
+          {
+            "format": "other",
+            "formatdesc": "Thumbnails conversion from text to thumbnail_medium",
+            "eprintid": 5543,
+            "rev_number": 2,
+            "placement": 4,
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/12715",
+            "security": "public",
+            "main": "medium.jpg",
+            "pos": 4,
+            "mime_type": "image\/png",
+            "relation": [
+              {
+                "uri": "\/id\/document\/12712",
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf"
+              },
+              {
+                "uri": "\/id\/document\/12712",
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf"
+              },
+              {
+                "uri": "\/id\/document\/12712",
+                "type": "http:\/\/eprints.org\/relation\/ismediumThumbnailVersionOf"
+              }
+            ],
+            "language": "en",
+            "docid": 12715,
+            "files": [
+                {
+                  "objectid": 12715,
+                  "fileid": 120551,
+                  "mtime": "2017-06-06 13:40:54",
+                  "hash_type": "MD5",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/120551",
+                  "mime_type": "image\/png",
+                  "filename": "medium.jpg",
+                  "datasetid": "document",
+                  "hash": "719575583ce055ed71b37adf1cd379c7",
+                  "filesize": 4830
+                }
+            ]
+          },
+          {
+            "rev_number": 2,
+            "eprintid": 5543,
+            "formatdesc": "Thumbnails conversion from text to thumbnail_small",
+            "format": "other",
+            "main": "small.jpg",
+            "pos": 5,
+            "security": "public",
+            "mime_type": "image\/png",
+            "placement": 5,
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/12716",
+            "language": "en",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf",
+                "uri": "\/id\/document\/12712"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf",
+                "uri": "\/id\/document\/12712"
+              },
+              {
+                "uri": "\/id\/document\/12712",
+                "type": "http:\/\/eprints.org\/relation\/issmallThumbnailVersionOf"
+              }
+            ],
+            "files": [
+                {
+                  "filesize": 1213,
+                  "mime_type": "image\/png",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/120552",
+                  "hash": "6a6a54bb76c3a5f9a2cb8b0854f80f3e",
+                  "datasetid": "document",
+                  "filename": "small.jpg",
+                  "mtime": "2017-06-06 13:40:55",
+                  "objectid": 12716,
+                  "fileid": 120552,
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 12716
+          },
+          {
+            "docid": 12717,
+            "files": [
+                {
+                  "objectid": 12717,
+                  "fileid": 120553,
+                  "mtime": "2017-06-06 13:40:59",
+                  "hash_type": "MD5",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/120553",
+                  "mime_type": "text\/plain",
+                  "datasetid": "document",
+                  "filename": "indexcodes.txt",
+                  "hash": "cabf39bde5fe4216ff9483eaea36370d",
+                  "filesize": 12115
+                }
+            ],
+            "language": "en",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf",
+                "uri": "\/id\/document\/12712"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf",
+                "uri": "\/id\/document\/12712"
+              },
+              {
+                "uri": "\/id\/document\/12712",
+                "type": "http:\/\/eprints.org\/relation\/isIndexCodesVersionOf"
+              }
+            ],
+            "pos": 6,
+            "main": "indexcodes.txt",
+            "security": "public",
+            "mime_type": "text\/plain",
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/12717",
+            "placement": 6,
+            "formatdesc": "Generate index codes conversion from text to indexcodes",
+            "format": "other",
+            "rev_number": 1,
+            "eprintid": 5543
+          }
+      ],
+      "date_type": "published",
+      "lastmod": "2017-11-09 08:45:07",
+      "title": "The Relationship Between Birch Pollen, Air Pollution\r\nand Weather Types and Their Effect on Antihistamine\r\nPurchase in Two Swedish Cities",
+      "rioxx2_format": "application\/pdf",
+      "subjects": [
+        "GE",
+        "Q1",
+        "QH301"
+      ],
+      "ispublished": "pub",
+      "rioxx2_author": [
+        {
+          "author": "Grundström, Maria"
+        },
+        {
+          "author": "Dahl, Å."
+        },
+        {
+          "author": "Ou, T."
+        },
+        {
+          "author": "Chen, D."
+        },
+        {
+          "author": "Pleijel, H."
+        }
+      ],
+      "creators": [
+        {
+          "id": 15033,
+          "name": {
+            "family": "Grundström",
+            "given": "Maria",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Å.",
+            "honourific": null,
+            "lineage": null,
+            "family": "Dahl"
+          }
+        },
+        {
+          "name": {
+            "family": "Ou",
+            "honourific": null,
+            "lineage": null,
+            "given": "T."
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Chen",
+            "given": "D.",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Pleijel",
+            "lineage": null,
+            "honourific": null,
+            "given": "H."
+          }
+        }
+      ],
+      "rioxx2_language": "en",
+      "rioxx2_title": "The Relationship Between Birch Pollen, Air Pollution\r\nand Weather Types and Their Effect on Antihistamine\r\nPurchase in Two Swedish Cities",
+      "pagerange": "457-471",
+      "note": "The full-text can be accessed via the Official URL.",
+      "volume": 33,
+      "rioxx2_publisher": "Springer Netherlands",
+      "datestamp": "2017-06-07 12:51:44",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/link.springer.com\/journal\/10453"
+        }
+      ]
+    },
+    {
+      "publication": "Science of the Total Environment",
+      "keywords": "pollen concentrations, allergic rhinitis, National Pollen and Aerobiology Research Unit (NPARU)",
+      "divisions": [
+        "sci"
+      ],
+      "id_number": "10.1016\/j.scitotenv.2016.11.004",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "documents": [
+          {
+            "language": "en",
+            "docid": 10020,
+            "content": "accepted",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-11-03 21:36:56",
+                  "fileid": 111283,
+                  "objectid": 10020,
+                  "filesize": 2012973,
+                  "hash": "a5ca4362bc50ecb3e59d3310caaa79e0",
+                  "datasetid": "document",
+                  "filename": "Publication-accepted_version.pdf",
+                  "mime_type": "application\/pdf",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/111283"
+                }
+            ],
+            "license": "cc_by_nc_nd",
+            "format": "text",
+            "rev_number": 4,
+            "eprintid": 5047,
+            "main": "Publication-accepted_version.pdf",
+            "pos": 1,
+            "security": "staffonly",
+            "mime_type": "application\/pdf",
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/10020",
+            "date_embargo": "2018-11-14",
+            "placement": 1
+          },
+          {
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf",
+                "uri": "\/id\/document\/10020"
+              },
+              {
+                "uri": "\/id\/document\/10020",
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/isIndexCodesVersionOf",
+                "uri": "\/id\/document\/10020"
+              }
+            ],
+            "language": "en",
+            "files": [
+                {
+                  "mime_type": "text\/x-c",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/111290",
+                  "hash": "ec02ed4d2334e82bab4fae06e1af0331",
+                  "datasetid": "document",
+                  "filename": "indexcodes.txt",
+                  "filesize": 15776,
+                  "mtime": "2016-11-03 21:46:41",
+                  "objectid": 10021,
+                  "fileid": 111290,
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 10021,
+            "eprintid": 5047,
+            "rev_number": 1,
+            "format": "other",
+            "formatdesc": "Generate index codes conversion from text to indexcodes",
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/10021",
+            "placement": 2,
+            "security": "public",
+            "main": "indexcodes.txt",
+            "mime_type": "text\/x-c",
+            "pos": 2
+          },
+          {
+            "main": "lightbox.jpg",
+            "security": "public",
+            "pos": 3,
+            "mime_type": "image\/png",
+            "placement": 3,
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/10022",
+            "formatdesc": "Thumbnails conversion from text to thumbnail_lightbox",
+            "format": "other",
+            "rev_number": 2,
+            "eprintid": 5047,
+            "docid": 10022,
+            "files": [
+                {
+                  "mtime": "2016-11-03 21:47:14",
+                  "fileid": 111291,
+                  "objectid": 10022,
+                  "hash_type": "MD5",
+                  "filesize": 21627,
+                  "mime_type": "image\/png",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/111291",
+                  "hash": "e99dc64318b82d412cd56286366104b9",
+                  "datasetid": "document",
+                  "filename": "lightbox.jpg"
+                }
+            ],
+            "language": "en",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf",
+                "uri": "\/id\/document\/10020"
+              },
+              {
+                "uri": "\/id\/document\/10020",
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/islightboxThumbnailVersionOf",
+                "uri": "\/id\/document\/10020"
+              }
+            ]
+          },
+          {
+            "files": [
+                {
+                  "mtime": "2016-11-03 21:47:14",
+                  "objectid": 10023,
+                  "fileid": 111292,
+                  "hash_type": "MD5",
+                  "mime_type": "image\/png",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/111292",
+                  "hash": "78f52532fdf6fd555438a50681afc13a",
+                  "filename": "preview.jpg",
+                  "datasetid": "document",
+                  "filesize": 9780
+                }
+            ],
+            "docid": 10023,
+            "relation": [
+              {
+                "uri": "\/id\/document\/10020",
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf"
+              },
+              {
+                "uri": "\/id\/document\/10020",
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/ispreviewThumbnailVersionOf",
+                "uri": "\/id\/document\/10020"
+              }
+            ],
+            "language": "en",
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/10023",
+            "placement": 4,
+            "mime_type": "image\/png",
+            "main": "preview.jpg",
+            "security": "public",
+            "pos": 4,
+            "eprintid": 5047,
+            "rev_number": 2,
+            "format": "other",
+            "formatdesc": "Thumbnails conversion from text to thumbnail_preview"
+          },
+          {
+            "main": "medium.jpg",
+            "mime_type": "image\/png",
+            "security": "public",
+            "pos": 5,
+            "placement": 5,
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/10024",
+            "rev_number": 2,
+            "eprintid": 5047,
+            "formatdesc": "Thumbnails conversion from text to thumbnail_medium",
+            "format": "other",
+            "files": [
+                {
+                  "filesize": 4021,
+                  "datasetid": "document",
+                  "filename": "medium.jpg",
+                  "hash": "4b2f8913e562a422e4ff10b8e0d34354",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/111293",
+                  "mime_type": "image\/png",
+                  "hash_type": "MD5",
+                  "fileid": 111293,
+                  "objectid": 10024,
+                  "mtime": "2016-11-03 21:47:15"
+                }
+            ],
+            "docid": 10024,
+            "language": "en",
+            "relation": [
+              {
+                "uri": "\/id\/document\/10020",
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf",
+                "uri": "\/id\/document\/10020"
+              },
+              {
+                "uri": "\/id\/document\/10020",
+                "type": "http:\/\/eprints.org\/relation\/ismediumThumbnailVersionOf"
+              }
+            ]
+          },
+          {
+            "relation": [
+              {
+                "uri": "\/id\/document\/10020",
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf"
+              },
+              {
+                "uri": "\/id\/document\/10020",
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf"
+              },
+              {
+                "uri": "\/id\/document\/10020",
+                "type": "http:\/\/eprints.org\/relation\/issmallThumbnailVersionOf"
+              }
+            ],
+            "language": "en",
+            "docid": 10025,
+            "files": [
+                {
+                  "objectid": 10025,
+                  "fileid": 111294,
+                  "mtime": "2016-11-03 21:47:16",
+                  "hash_type": "MD5",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/111294",
+                  "mime_type": "image\/png",
+                  "filename": "small.jpg",
+                  "datasetid": "document",
+                  "hash": "95052d7e81fa6cd53edb13f5fe9030b4",
+                  "filesize": 1280
+                }
+            ],
+            "format": "other",
+            "formatdesc": "Thumbnails conversion from text to thumbnail_small",
+            "eprintid": 5047,
+            "rev_number": 2,
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/10025",
+            "placement": 6,
+            "mime_type": "image\/png",
+            "main": "small.jpg",
+            "security": "public",
+            "pos": 6
+          }
+      ],
+      "issn": "Print: 0048-9697  Online: 1879-1026",
+      "contact_email": "c.skjoth@worc.ac.uk",
+      "rioxx2_free_to_read": {
+        "free_to_read": "Yes",
+        "start_date": "2018-11-14"
+      },
+      "dates": [
+        {
+          "date_type": "accepted",
+          "date": "2016-11-01"
+        },
+        {
+          "date_type": "published_online",
+          "date": "2016-11-14"
+        },
+        {
+          "date_type": "published",
+          "date": "2017-02-01"
+        }
+      ],
+      "pagerange": "586-600",
+      "rioxx2_title": "Mapping the Birch and Grass Pollen Seasons in the UK Using Satellite Sensor Time-series",
+      "note": "The full-text cannot be supplied for this item.",
+      "rioxx2_publisher": "Elsevier B.V.",
+      "volume": 578,
+      "datestamp": "2016-11-07 08:46:19",
+      "related_url": [
+        {
+          "url": "http:\/\/www.journals.elsevier.com\/science-of-the-total-environment\/",
+          "type": "pub"
+        }
+      ],
+      "lastmod": "2017-01-06 10:51:17",
+      "title": "Mapping the Birch and Grass Pollen Seasons in the UK Using Satellite Sensor Time-series",
+      "rioxx2_format": "application\/pdf",
+      "subjects": [
+        "GE",
+        "Q1"
+      ],
+      "ispublished": "pub",
+      "rioxx2_author": [
+        {
+          "author": "Khwarahm, N."
+        },
+        {
+          "author": "Dash, J."
+        },
+        {
+          "author": "Skjøth, C."
+        },
+        {
+          "author": "Newnham, R.M."
+        },
+        {
+          "author": "Adams-Groom, Beverley"
+        },
+        {
+          "author": "Head, K."
+        },
+        {
+          "author": "Caulton, E."
+        },
+        {
+          "author": "Atkinson, P.M."
+        }
+      ],
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "family": "Khwarahm",
+            "honourific": null,
+            "lineage": null,
+            "given": "N."
+          }
+        },
+        {
+          "name": {
+            "given": "J.",
+            "honourific": null,
+            "lineage": null,
+            "family": "Dash"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "C.",
+            "honourific": null,
+            "lineage": null,
+            "family": "Skjøth"
+          },
+          "id": 11716
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Newnham",
+            "lineage": null,
+            "honourific": null,
+            "given": "R.M."
+          }
+        },
+        {
+          "name": {
+            "given": "Beverley",
+            "honourific": null,
+            "lineage": null,
+            "family": "Adams-Groom"
+          },
+          "id": 2301
+        },
+        {
+          "name": {
+            "family": "Head",
+            "given": "K.",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Caulton",
+            "given": "E.",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Atkinson",
+            "lineage": null,
+            "honourific": null,
+            "given": "P.M."
+          }
+        }
+      ],
+      "rioxx2_language": "en",
+      "date": "2017-02-01",
+      "publisher": "Elsevier B.V.",
+      "rioxx2_subject": [
+        "GE",
+        "Q1"
+      ],
+      "status_changed": "2016-11-07 08:46:19",
+      "uri": "https:\/\/eprints.worc.ac.uk\/id\/eprint\/5047",
+      "rioxx2_type": "Journal Article\/Review",
+      "rioxx2_license_ref": {
+        "license_ref": "http:\/\/creativecommons.org\/licenses\/by-nc-nd\/4.0",
+        "start_date": "2018-11-14"
+      },
+      "dir": "disk0\/00\/00\/50\/47",
+      "rioxx2_identifier": "http:\/\/eprints.worc.ac.uk\/5047\/1\/Publication-accepted_version.pdf",
+      "type": "article",
+      "rioxx2_version_of_record": "http:\/\/dx.doi.org\/10.1016\/j.scitotenv.2016.11.004",
+      "full_text_status": "restricted",
+      "rioxx2_relation": [
+        "http:\/\/www.journals.elsevier.com\/science-of-the-total-environment\/"
+      ],
+      "official_url": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/27856057",
+      "rioxx2_dateAccepted": "2016-11-01",
+      "rioxx2_description": "Grass and birch pollen are two major causes of seasonal allergic rhinitis (hay fever) in the UK and parts of Europe affecting around 15-20% of the population. Current prediction of these allergens in the UK is based on (i) measurements of pollen concentrations at a limited number of monitoring stations across the country and (ii) general information about the phenological status of the vegetation. Thus, the current prediction methodology provides information at a coarse spatial resolution only. Most station-based approaches take into account only local observations of flowering, while only a small number of approaches take into account remote observations of land surface phenology. The systematic gathering of detailed information about vegetation status nationwide would therefore be of great potential utility. In particular, there exists an opportunity to use remote sensing to estimate phenological variables that are related to the flowering phenophase and, thus, pollen release. In turn, these estimates can be used to predict pollen release at a fine spatial resolution. In this study, time-series of MERIS Terrestrial Chlorophyll Index (MTCI) data were used to predict two key phenological variables: the start of season and peak of season. A technique was then developed to estimate the flowering phenophase of birch and grass from the MTCI time-series. For birch, the timing of flowering was defined as the time after the start of the growing season when the MTCI value reached 25% of the maximum. Similarly, for grass this was defined as the time when the MTCI value reached 75% of the maximum. The predicted pollen release dates were validated with data from nine pollen monitoring stations in the UK. For both birch and grass, we obtained large positive correlations between the MTCI-derived start of pollen season and the start of the pollen season defined using station data, with a slightly larger correlation observed for birch than for grass. The technique was applied to produce detailed maps for the flowering of birch and grass across the UK for each of the years from 2003 to 2010. The results demonstrate that the remote sensing-based maps of onset flowering of birch and grass for the UK together with the pollen forecast from the Meteorology Office and National Pollen and Aerobiology Research Unit (NPARU) can potentially provide more accurate information to pollen allergy sufferers in the UK.",
+      "metadata_visibility": "show",
+      "rioxx2_source": "Print: 0048-9697  Online: 1879-1026",
+      "rioxx2_version": "AM",
+      "eprintid": 5047,
+      "rev_number": 20,
+      "rioxx2_publication_date": "2017-02-01",
+      "abstract": "Grass and birch pollen are two major causes of seasonal allergic rhinitis (hay fever) in the UK and parts of Europe affecting around 15-20% of the population. Current prediction of these allergens in the UK is based on (i) measurements of pollen concentrations at a limited number of monitoring stations across the country and (ii) general information about the phenological status of the vegetation. Thus, the current prediction methodology provides information at a coarse spatial resolution only. Most station-based approaches take into account only local observations of flowering, while only a small number of approaches take into account remote observations of land surface phenology. The systematic gathering of detailed information about vegetation status nationwide would therefore be of great potential utility. In particular, there exists an opportunity to use remote sensing to estimate phenological variables that are related to the flowering phenophase and, thus, pollen release. In turn, these estimates can be used to predict pollen release at a fine spatial resolution. In this study, time-series of MERIS Terrestrial Chlorophyll Index (MTCI) data were used to predict two key phenological variables: the start of season and peak of season. A technique was then developed to estimate the flowering phenophase of birch and grass from the MTCI time-series. For birch, the timing of flowering was defined as the time after the start of the growing season when the MTCI value reached 25% of the maximum. Similarly, for grass this was defined as the time when the MTCI value reached 75% of the maximum. The predicted pollen release dates were validated with data from nine pollen monitoring stations in the UK. For both birch and grass, we obtained large positive correlations between the MTCI-derived start of pollen season and the start of the pollen season defined using station data, with a slightly larger correlation observed for birch than for grass. The technique was applied to produce detailed maps for the flowering of birch and grass across the UK for each of the years from 2003 to 2010. The results demonstrate that the remote sensing-based maps of onset flowering of birch and grass for the UK together with the pollen forecast from the Meteorology Office and National Pollen and Aerobiology Research Unit (NPARU) can potentially provide more accurate information to pollen allergy sufferers in the UK.",
+      "refereed": "TRUE",
+      "userid": 1014
+    },
+    {
+      "dates": [
+        {
+          "date": "2015-12",
+          "date_type": "published"
+        }
+      ],
+      "issn": "Print: 2212-0955",
+      "contact_email": "c.skjoth@worc.ac.uk",
+      "id_number": "10.1016\/j.uclim.2014.09.007",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "documents": [
+          {
+            "format": "text",
+            "eprintid": 3472,
+            "rev_number": 2,
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/6276",
+            "placement": 7,
+            "mime_type": "application\/pdf",
+            "main": "Skjøth et al2015 - UrbanClimate.pdf",
+            "security": "validuser",
+            "pos": 7,
+            "language": "en",
+            "docid": 6276,
+            "files": [
+                {
+                  "hash": "30b8efcd5557def4bf63b2facab03e04",
+                  "filename": "Skjøth et al2015 - UrbanClimate.pdf",
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/96381",
+                  "filesize": 6779702,
+                  "hash_type": "MD5",
+                  "mtime": "2015-12-01 12:22:34",
+                  "objectid": 6276,
+                  "fileid": 96381
+                }
+            ],
+            "content": "published"
+          },
+          {
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2015-12-01 12:32:50",
+                  "objectid": 6277,
+                  "fileid": 96385,
+                  "hash": "0e2f9029f389fdcaadaaaca0e6563ae6",
+                  "filename": "lightbox.jpg",
+                  "datasetid": "document",
+                  "mime_type": "image\/png",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/96385",
+                  "filesize": 32547
+                }
+            ],
+            "docid": 6277,
+            "relation": [
+              {
+                "uri": "\/id\/document\/6276",
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf"
+              },
+              {
+                "uri": "\/id\/document\/6276",
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/islightboxThumbnailVersionOf",
+                "uri": "\/id\/document\/6276"
+              }
+            ],
+            "language": "en",
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/6277",
+            "placement": 8,
+            "security": "validuser",
+            "main": "lightbox.jpg",
+            "pos": 8,
+            "mime_type": "image\/png",
+            "eprintid": 3472,
+            "rev_number": 2,
+            "format": "other",
+            "formatdesc": "Thumbnails conversion from text to thumbnail_lightbox"
+          },
+          {
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2015-12-01 12:32:51",
+                  "objectid": 6278,
+                  "fileid": 96386,
+                  "filesize": 14310,
+                  "hash": "7b5afd5c90818f54f921ee87d13d52d5",
+                  "filename": "preview.jpg",
+                  "datasetid": "document",
+                  "mime_type": "image\/png",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/96386"
+                }
+            ],
+            "docid": 6278,
+            "relation": [
+              {
+                "uri": "\/id\/document\/6276",
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf",
+                "uri": "\/id\/document\/6276"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/ispreviewThumbnailVersionOf",
+                "uri": "\/id\/document\/6276"
+              }
+            ],
+            "language": "en",
+            "placement": 9,
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/6278",
+            "security": "validuser",
+            "main": "preview.jpg",
+            "mime_type": "image\/png",
+            "pos": 9,
+            "eprintid": 3472,
+            "rev_number": 2,
+            "format": "other",
+            "formatdesc": "Thumbnails conversion from text to thumbnail_preview"
+          },
+          {
+            "docid": 6279,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "objectid": 6279,
+                  "fileid": 96387,
+                  "mtime": "2015-12-01 12:32:52",
+                  "filesize": 6438,
+                  "filename": "medium.jpg",
+                  "datasetid": "document",
+                  "hash": "9e01ff36b7f959f7e7fdecd87e6ae31d",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/96387",
+                  "mime_type": "image\/png"
+                }
+            ],
+            "relation": [
+              {
+                "uri": "\/id\/document\/6276",
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf"
+              },
+              {
+                "uri": "\/id\/document\/6276",
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/ismediumThumbnailVersionOf",
+                "uri": "\/id\/document\/6276"
+              }
+            ],
+            "language": "en",
+            "placement": 10,
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/6279",
+            "security": "validuser",
+            "main": "medium.jpg",
+            "mime_type": "image\/png",
+            "pos": 10,
+            "format": "other",
+            "formatdesc": "Thumbnails conversion from text to thumbnail_medium",
+            "eprintid": 3472,
+            "rev_number": 2
+          },
+          {
+            "eprintid": 3472,
+            "rev_number": 2,
+            "format": "other",
+            "formatdesc": "Thumbnails conversion from text to thumbnail_small",
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/6280",
+            "placement": 11,
+            "main": "small.jpg",
+            "security": "validuser",
+            "pos": 11,
+            "mime_type": "image\/png",
+            "relation": [
+              {
+                "uri": "\/id\/document\/6276",
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf"
+              },
+              {
+                "uri": "\/id\/document\/6276",
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf"
+              },
+              {
+                "uri": "\/id\/document\/6276",
+                "type": "http:\/\/eprints.org\/relation\/issmallThumbnailVersionOf"
+              }
+            ],
+            "language": "en",
+            "files": [
+                {
+                  "filename": "small.jpg",
+                  "datasetid": "document",
+                  "hash": "1f6740b36439b875f96c0f6c09a8a0f0",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/96388",
+                  "mime_type": "image\/png",
+                  "filesize": 1766,
+                  "hash_type": "MD5",
+                  "fileid": 96388,
+                  "objectid": 6280,
+                  "mtime": "2015-12-01 12:32:52"
+                }
+            ],
+            "docid": 6280
+          },
+          {
+            "language": "en",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf",
+                "uri": "\/id\/document\/6276"
+              },
+              {
+                "uri": "\/id\/document\/6276",
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/isIndexCodesVersionOf",
+                "uri": "\/id\/document\/6276"
+              }
+            ],
+            "files": [
+                {
+                  "filesize": 11327,
+                  "mime_type": "text\/x-pascal",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/96389",
+                  "hash": "0da0bfcffc8c699b831a6c612f321212",
+                  "datasetid": "document",
+                  "filename": "indexcodes.txt",
+                  "mtime": "2015-12-01 12:32:53",
+                  "objectid": 6281,
+                  "fileid": 96389,
+                  "hash_type": "MD5"
+                }
+            ],
+            "docid": 6281,
+            "rev_number": 1,
+            "eprintid": 3472,
+            "formatdesc": "Generate index codes conversion from text to indexcodes",
+            "format": "other",
+            "main": "indexcodes.txt",
+            "mime_type": "text\/x-pascal",
+            "security": "validuser",
+            "pos": 12,
+            "placement": 12,
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/6281"
+          }
+      ],
+      "number": 3,
+      "publication": "Urban Climate",
+      "keywords": "pollen, aeroallergens, urban bioaerosols, trajectory calculations, source maps, trees",
+      "divisions": [
+        "sci"
+      ],
+      "ispublished": "pub",
+      "rioxx2_author": [
+        {
+          "author": "Skjøth, C."
+        },
+        {
+          "author": "Baker, Peter"
+        },
+        {
+          "author": "Sadyś, Magdalena"
+        },
+        {
+          "author": "Adams-Groom, Beverley"
+        }
+      ],
+      "creators": [
+        {
+          "name": {
+            "family": "Skjøth",
+            "given": "C.",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": 11716
+        },
+        {
+          "name": {
+            "family": "Baker",
+            "honourific": null,
+            "lineage": null,
+            "given": "Peter"
+          },
+          "id": 9554
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Magdalena",
+            "family": "Sadyś"
+          },
+          "id": 10092
+        },
+        {
+          "id": 2301,
+          "name": {
+            "family": "Adams-Groom",
+            "given": "Beverley",
+            "honourific": null,
+            "lineage": null
+          }
+        }
+      ],
+      "rioxx2_language": "en",
+      "title": "Pollen From Alder (Alnus sp.), Birch (Betula sp.) and Oak (Quercus sp.) in the UK Originate From Small Woodlands",
+      "lastmod": "2017-01-04 17:03:49",
+      "rioxx2_format": "application\/pdf",
+      "subjects": [
+        "Q1"
+      ],
+      "note": "Staff and students at the University of Worcester can access the full-text via the UW online library search. External users should check availability with their local library or Interlibrary Requests Service.\r\n\r\nOriginally deposited as National Pollen and Aerobiology Research Unit (NPARU)",
+      "rioxx2_publisher": "Elsevier",
+      "volume": 14,
+      "datestamp": "2014-11-25 09:00:52",
+      "related_url": [
+        {
+          "url": "http:\/\/www.sciencedirect.com\/",
+          "type": "pub"
+        }
+      ],
+      "pagerange": "414-428",
+      "rioxx2_title": "Pollen From Alder (Alnus sp.), Birch (Betula sp.) and Oak (Quercus sp.) in the UK Originate From Small Woodlands",
+      "uri": "https:\/\/eprints.worc.ac.uk\/id\/eprint\/3472",
+      "rioxx2_type": "Journal Article\/Review",
+      "status_changed": "2016-04-01 11:16:29",
+      "publisher": "Elsevier",
+      "date": "2015-12",
+      "rioxx2_subject": [
+        "Q1"
+      ],
+      "rioxx2_publication_date": "2015-12",
+      "abstract": "We have analysed the pollen seasons in Worcester for the period 2005–12 for alder (Alnus), birch (Betula) and oak (Quercus) by using back trajectory calculations and produced the first detailed source maps for these three pollen types.\r\n\r\nThe study shows considerable variations in the source–receptor relationship of three of the most important tree pollen types in England with respect to allergy. Long Distance Transport is observed for Quercus and Betula but not for Alnus. The new source maps show a number of high emitting areas for Betula and Quercus, mainly near London, in the Midlands and in Wales. The production of source maps is sensitive to the used type of land cover data and how well they incorporate small woodlands. Two satellite products, Corine Land Cover and Globcover, are compared with the detailed national land cover product Land Cover Map 2007. The broad scale satellite products show either up to 50% less woody coverage or a direct misplacement of woodlands.\r\n\r\nThe Lagrangian back trajectory model, the pollen count observations and the source maps altogether suggest that small woodlands (below 25 ha) play a major role in the overall pollen load in urban areas in England.",
+      "refereed": "TRUE",
+      "userid": 1014,
+      "eprintid": 3472,
+      "rioxx2_version": "VoR",
+      "item_issues": [
+        {
+          "id": "similar_title_4240",
+          "type": "similar_title",
+          "description": "Similar title to \n\n\n    <span class=\"person_name\">Skjoth, Carsten<\/span> and <span class=\"person_name\">Baker, Peter<\/span> and <span class=\"person_name\">Sadys, Magdalena<\/span> and <span class=\"person_name\">Adams-Groom, Beverley<\/span>\n  \n\n(2014)\n\n<a href=\"http:\/\/eprints.worc.ac.uk\/cgi\/users\/home?screen=EPrint::View&amp;eprintid=4240\"><xhtml:em xmlns:xhtml=\"http:\/\/www.w3.org\/1999\/xhtml\">Pollen from alder (Alnus sp.), birch (Betula sp.)&#13;\nand oak (Quercus sp.) in the UK originate from&#13;\nsmall woodlands.<\/xhtml:em><\/a>\n\n\n    Urban Climate, 14.\n     pp. 414-428.",
+          "timestamp": "2016-04-01 06:00:38",
+          "status": "autoresolved"
+        }
+      ],
+      "rev_number": 24,
+      "item_issues_count": 0,
+      "rioxx2_description": "We have analysed the pollen seasons in Worcester for the period 2005–12 for alder (Alnus), birch (Betula) and oak (Quercus) by using back trajectory calculations and produced the first detailed source maps for these three pollen types.\r\n\r\nThe study shows considerable variations in the source–receptor relationship of three of the most important tree pollen types in England with respect to allergy. Long Distance Transport is observed for Quercus and Betula but not for Alnus. The new source maps show a number of high emitting areas for Betula and Quercus, mainly near London, in the Midlands and in Wales. The production of source maps is sensitive to the used type of land cover data and how well they incorporate small woodlands. Two satellite products, Corine Land Cover and Globcover, are compared with the detailed national land cover product Land Cover Map 2007. The broad scale satellite products show either up to 50% less woody coverage or a direct misplacement of woodlands.\r\n\r\nThe Lagrangian back trajectory model, the pollen count observations and the source maps altogether suggest that small woodlands (below 25 ha) play a major role in the overall pollen load in urban areas in England.",
+      "metadata_visibility": "show",
+      "official_url": "http:\/\/www.sciencedirect.com\/science\/article\/pii\/S2212095514000716",
+      "rioxx2_source": "Print: 2212-0955",
+      "type": "article",
+      "rioxx2_identifier": "http:\/\/eprints.worc.ac.uk\/3472\/7\/Skj%C3%B8th%20et%20al2015%20-%20UrbanClimate.pdf",
+      "dir": "disk0\/00\/00\/34\/72",
+      "rioxx2_version_of_record": "http:\/\/dx.doi.org\/10.1016\/j.uclim.2014.09.007",
+      "full_text_status": "restricted",
+      "rioxx2_relation": [
+        "http:\/\/www.sciencedirect.com\/"
+      ]
+    },
+    {
+      "rioxx2_subject": [
+        "Q1"
+      ],
+      "date": "2015-12",
+      "publisher": "Polish Botanical Society",
+      "status_changed": "2016-01-21 11:54:01",
+      "rioxx2_type": "Journal Article\/Review",
+      "rioxx2_license_ref": {
+        "license_ref": "http:\/\/creativecommons.org\/licenses\/by\/4.0",
+        "start_date": "2015-12"
+      },
+      "uri": "https:\/\/eprints.worc.ac.uk\/id\/eprint\/4113",
+      "rioxx2_relation": [
+        "https:\/\/pbsociety.org.pl\/default\/?lang=en"
+      ],
+      "rioxx2_version_of_record": "http:\/\/dx.doi.org\/10.5586\/aa.2015.044",
+      "full_text_status": "public",
+      "dir": "disk0\/00\/00\/41\/13",
+      "rioxx2_identifier": "http:\/\/eprints.worc.ac.uk\/4113\/1\/Skjoth%20et%20al2015%20-%20ActaAgrobotannica.pdf",
+      "type": "article",
+      "rioxx2_source": "Print: 0065-0951  Online: 2300-357X",
+      "rioxx2_description": "In this study we analyzed daily pollen concentrations of Alnus spp. and Betula spp. from Worcester, UK and Wrocław, \r\nPoland. We analyzed seasonality, annual pollen index and footprint areas for the observed pollen concentrations by using the trajectory model hybrid single particle Lagrangian integrated trajectory (HYSPLIT). We examined 10 years of data during the period 2005–2014 and found substantial differences in the seasonality, pollen indices and footprint areas. For both genera, concentrations in Wrocław are in general much higher, the seasons are shorter and therefore more intense than in Worcester. The reasons appear to be related to the differences in overall climate between the two sites and more abundant sources in Poland than in England. The footprint areas suggest that the source of the pollen grains are mainly local trees but appear to be augmented by remote sources, in particular for Betula spp. but only to a small degree for Alnus spp. For Betula spp., both sites appear to get contributions from areas in Germany, the Netherlands and Belgium, while known Betula \r\nspp. rich regions in Russia, Belarus and Scandinavia had a very limited impact on the pollen concentrations in Worcester and Wrocław. Substantial and systematic variations in pollen indices are seen for Betula spp. in Wrocław with high values every second year while a similar pattern is not observed for Worcester. This pattern was not reproduced for Alnus spp.",
+      "metadata_visibility": "show",
+      "official_url": "https:\/\/pbsociety.org.pl\/journals\/index.php\/aa\/article\/view\/aa.2015.044\/5757",
+      "rev_number": 12,
+      "eprintid": 4113,
+      "rioxx2_version": "VoR",
+      "userid": 1014,
+      "abstract": "In this study we analyzed daily pollen concentrations of Alnus spp. and Betula spp. from Worcester, UK and Wrocław, \r\nPoland. We analyzed seasonality, annual pollen index and footprint areas for the observed pollen concentrations by using the trajectory model hybrid single particle Lagrangian integrated trajectory (HYSPLIT). We examined 10 years of data during the period 2005–2014 and found substantial differences in the seasonality, pollen indices and footprint areas. For both genera, concentrations in Wrocław are in general much higher, the seasons are shorter and therefore more intense than in Worcester. The reasons appear to be related to the differences in overall climate between the two sites and more abundant sources in Poland than in England. The footprint areas suggest that the source of the pollen grains are mainly local trees but appear to be augmented by remote sources, in particular for Betula spp. but only to a small degree for Alnus spp. For Betula spp., both sites appear to get contributions from areas in Germany, the Netherlands and Belgium, while known Betula \r\nspp. rich regions in Russia, Belarus and Scandinavia had a very limited impact on the pollen concentrations in Worcester and Wrocław. Substantial and systematic variations in pollen indices are seen for Betula spp. in Wrocław with high values every second year while a similar pattern is not observed for Worcester. This pattern was not reproduced for Alnus spp.",
+      "refereed": "TRUE",
+      "rioxx2_publication_date": "2015-12",
+      "divisions": [
+        "sci"
+      ],
+      "keywords": "aeroallergens, trajectories, HYSPLIT, climate, seasonality, sources",
+      "publication": "Acta Agrobotannica",
+      "number": 4,
+      "date_type": "published",
+      "documents": [
+          {
+            "language": "en",
+            "docid": 6487,
+            "files": [
+                {
+                  "filesize": 1743898,
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/97194",
+                  "mime_type": "application\/pdf",
+                  "filename": "Skjoth et al2015 - ActaAgrobotannica.pdf",
+                  "datasetid": "document",
+                  "hash": "215fda85af71c784b4d60d120b581172",
+                  "fileid": 97194,
+                  "objectid": 6487,
+                  "mtime": "2016-01-15 19:58:09",
+                  "hash_type": "MD5"
+                }
+            ],
+            "content": "published",
+            "license": "cc_by",
+            "format": "text",
+            "rev_number": 2,
+            "eprintid": 4113,
+            "security": "public",
+            "main": "Skjoth et al2015 - ActaAgrobotannica.pdf",
+            "pos": 1,
+            "mime_type": "application\/pdf",
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/6487",
+            "placement": 1
+          },
+          {
+            "format": "other",
+            "formatdesc": "Generate index codes conversion from text to indexcodes",
+            "eprintid": 4113,
+            "rev_number": 1,
+            "placement": 2,
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/6488",
+            "security": "public",
+            "main": "indexcodes.txt",
+            "pos": 2,
+            "mime_type": "text\/x-c",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf",
+                "uri": "\/id\/document\/6487"
+              },
+              {
+                "uri": "\/id\/document\/6487",
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf"
+              },
+              {
+                "uri": "\/id\/document\/6487",
+                "type": "http:\/\/eprints.org\/relation\/isIndexCodesVersionOf"
+              }
+            ],
+            "language": "en",
+            "docid": 6488,
+            "files": [
+                {
+                  "filename": "indexcodes.txt",
+                  "datasetid": "document",
+                  "hash": "4c0bbe7e7913a7b313d27c37e1604258",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/97201",
+                  "mime_type": "text\/x-c",
+                  "filesize": 12558,
+                  "hash_type": "MD5",
+                  "objectid": 6488,
+                  "fileid": 97201,
+                  "mtime": "2016-01-15 20:16:39"
+                }
+            ]
+          },
+          {
+            "formatdesc": "Thumbnails conversion from text to thumbnail_lightbox",
+            "format": "other",
+            "rev_number": 2,
+            "eprintid": 4113,
+            "security": "public",
+            "main": "lightbox.jpg",
+            "pos": 3,
+            "mime_type": "image\/png",
+            "placement": 3,
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/6489",
+            "language": "en",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf",
+                "uri": "\/id\/document\/6487"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf",
+                "uri": "\/id\/document\/6487"
+              },
+              {
+                "uri": "\/id\/document\/6487",
+                "type": "http:\/\/eprints.org\/relation\/islightboxThumbnailVersionOf"
+              }
+            ],
+            "docid": 6489,
+            "files": [
+                {
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/97202",
+                  "mime_type": "image\/png",
+                  "filename": "lightbox.jpg",
+                  "datasetid": "document",
+                  "hash": "e2e8ad411b943821c59e7f2b49f21f79",
+                  "filesize": 40655,
+                  "objectid": 6489,
+                  "fileid": 97202,
+                  "mtime": "2016-01-15 20:18:11",
+                  "hash_type": "MD5"
+                }
+            ]
+          },
+          {
+            "formatdesc": "Thumbnails conversion from text to thumbnail_preview",
+            "format": "other",
+            "rev_number": 2,
+            "eprintid": 4113,
+            "security": "public",
+            "main": "preview.jpg",
+            "pos": 4,
+            "mime_type": "image\/png",
+            "placement": 4,
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/6490",
+            "language": "en",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf",
+                "uri": "\/id\/document\/6487"
+              },
+              {
+                "uri": "\/id\/document\/6487",
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/ispreviewThumbnailVersionOf",
+                "uri": "\/id\/document\/6487"
+              }
+            ],
+            "docid": 6490,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-01-15 20:18:12",
+                  "objectid": 6490,
+                  "fileid": 97203,
+                  "hash": "066b4de2aea74e7b4c9f04b4c2a0eb0b",
+                  "filename": "preview.jpg",
+                  "datasetid": "document",
+                  "mime_type": "image\/png",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/97203",
+                  "filesize": 15403
+                }
+            ]
+          },
+          {
+            "relation": [
+              {
+                "uri": "\/id\/document\/6487",
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf",
+                "uri": "\/id\/document\/6487"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/ismediumThumbnailVersionOf",
+                "uri": "\/id\/document\/6487"
+              }
+            ],
+            "language": "en",
+            "docid": 6491,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "fileid": 97204,
+                  "objectid": 6491,
+                  "mtime": "2016-01-15 20:18:13",
+                  "filename": "medium.jpg",
+                  "datasetid": "document",
+                  "hash": "d79e33a71c42879d5e1336f3d8c467dd",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/97204",
+                  "mime_type": "image\/png",
+                  "filesize": 4464
+                }
+            ],
+            "format": "other",
+            "formatdesc": "Thumbnails conversion from text to thumbnail_medium",
+            "eprintid": 4113,
+            "rev_number": 2,
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/6491",
+            "placement": 5,
+            "main": "medium.jpg",
+            "security": "public",
+            "mime_type": "image\/png",
+            "pos": 5
+          },
+          {
+            "format": "other",
+            "formatdesc": "Thumbnails conversion from text to thumbnail_small",
+            "eprintid": 4113,
+            "rev_number": 2,
+            "uri": "https:\/\/eprints.worc.ac.uk\/id\/document\/6492",
+            "placement": 6,
+            "main": "small.jpg",
+            "mime_type": "image\/png",
+            "security": "public",
+            "pos": 6,
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/isVersionOf",
+                "uri": "\/id\/document\/6487"
+              },
+              {
+                "type": "http:\/\/eprints.org\/relation\/isVolatileVersionOf",
+                "uri": "\/id\/document\/6487"
+              },
+              {
+                "uri": "\/id\/document\/6487",
+                "type": "http:\/\/eprints.org\/relation\/issmallThumbnailVersionOf"
+              }
+            ],
+            "language": "en",
+            "docid": 6492,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "filename": "small.jpg",
+                  "hash": "1b52d44e241ec354708a7befa81d59b7",
+                  "uri": "https:\/\/eprints.worc.ac.uk\/id\/file\/97205",
+                  "mime_type": "image\/png",
+                  "filesize": 1354,
+                  "hash_type": "MD5",
+                  "objectid": 6492,
+                  "fileid": 97205,
+                  "mtime": "2016-01-15 20:18:14"
+                }
+            ]
+          }
+      ],
+      "eprint_status": "archive",
+      "id_number": "10.5586\/aa.2015.044",
+      "copyright_holders": [
+        "Open Access journal"
+      ],
+      "contact_email": "c.skjoth@worc.ac.uk",
+      "issn": "Print: 0065-0951  Online: 2300-357X",
+      "dates": [
+        {
+          "date": "2015-12",
+          "date_type": "published"
+        }
+      ],
+      "rioxx2_free_to_read": {
+        "free_to_read": "Yes"
+      },
+      "rioxx2_title": "Footprint Areas of Pollen From Alder (Alnus) and Birch (Betula) in the UK (Worcester) and Poland (Wrocław) During 2005–2014",
+      "pagerange": "315-324",
+      "related_url": [
+        {
+          "url": "https:\/\/pbsociety.org.pl\/default\/?lang=en",
+          "type": "pub"
+        }
+      ],
+      "rioxx2_publisher": "Polish Botanical Society",
+      "volume": 68,
+      "datestamp": "2016-01-21 11:54:01",
+      "note": "Originally deposited as National Pollen and Aerobiology Research Unit (NPARU)",
+      "subjects": [
+        "Q1"
+      ],
+      "rioxx2_format": "application\/pdf",
+      "lastmod": "2016-02-18 15:55:13",
+      "title": "Footprint Areas of Pollen From Alder (Alnus) and Birch (Betula) in the UK (Worcester) and Poland (Wrocław) During 2005–2014",
+      "rioxx2_language": "en",
+      "creators": [
+        {
+          "id": 11716,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "C.",
+            "family": "Skjøth"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Bilińska",
+            "given": "D.",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Werner",
+            "honourific": null,
+            "lineage": null,
+            "given": "Malgorzata"
+          },
+          "id": 12916
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "M.",
+            "honourific": null,
+            "lineage": null,
+            "family": "Malkiewicz"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "Beverley",
+            "family": "Adams-Groom"
+          },
+          "id": 2301
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Kryza",
+            "given": "M.",
+            "honourific": null,
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "A.",
+            "honourific": null,
+            "lineage": null,
+            "family": "Drzeniecka-Osiadacz"
+          },
+          "id": null
+        }
+      ],
+      "rioxx2_author": [
+        {
+          "author": "Skjøth, C."
+        },
+        {
+          "author": "Bilińska, D."
+        },
+        {
+          "author": "Werner, Malgorzata"
+        },
+        {
+          "author": "Malkiewicz, M."
+        },
+        {
+          "author": "Adams-Groom, Beverley"
+        },
+        {
+          "author": "Kryza, M."
+        },
+        {
+          "author": "Drzeniecka-Osiadacz, A."
+        }
+      ],
+      "ispublished": "pub"
+    },
+    {
+      "ispublished": "pub",
+      "rioxx2_author": [
+        {
+          "author": "Newnham, R.M."
+        },
+        {
+          "author": "Sparks, T.H."
+        },
+        {
+          "author": "Skjøth, C."
+        },
+        {
+          "author": "Head, K."
+        },
+        {
+          "author": "Adams-Groom, Beverley"
+        },
+        {
+          "author": "Smith, Matt"
+        }
+      ],
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "given": "R.M.",
+            "family": "Newnham"
+          }
+        },
+        {
+          "name": {
+            "family": "Sparks",
+            "given": "T.H.",
+            "honourific": null,
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": 11716,
+          "name": {
+            "lineage": null,
+            "honourific": null,
+            "given": "C.",
+            "family": "Skjøth"
+          }
+        },
+        {
+          "name": {
+            "family": "Head",
+            "lineage": null,
+            "honourific": null,
+            "given": "K."
+          },
+          "id": null
+        },
+        {
+          "id": 2301,
+          "name": {
+            "family": "Adams-Groom",
+            "lineage": null,
+            "honourific": null,
+            "given": "Beverley"
+          }
+        },
+        {
+          "name": {
+            "family": "Smith",
+            "honourific": null,
+            "lineage": null,
+            "given": "Matt"
+          },
+          "id": 3092
+        }
+      ],
+      "rioxx2_language": "en",
+      "title": "Pollen Season and Climate: Is the Timing of Birch Pollen Release in the UK Approaching its Limit?",
+      "lastmod": "2017-01-04 12:33:42",
+      "subjects": [
+        "Q1"
+      ],
+      "note": "The electronic full-text cannot be supplied for this item.  Please check availability with your local library or Interlibrary Requests Service.\r\n\r\nOriginally deposited as National Pollen and Aerobiology Research Unit (NPARU)\r\n\r\nOriginally deposited as National Pollen and Aerobiology Research Unit (NPARU)",
+      "rioxx2_publisher": "Springer Berlin Heidelberg",
+      "datestamp": "2013-03-13 14:09:47",
+      "volume": 57,
+      "rioxx2_title": "Pollen Season and Climate: Is the Timing of Birch Pollen Release in the UK Approaching its Limit?",
+      "pagerange": "391-400",
+      "dates": [
+        {
+          "date": 2013
+        }
+      ],
+      "issn": "Print: 0020-7128  Online: 1432-1254",
+      "contact_email": "b.adams-groom@worc.ac.uk",
+      "id_number": "10.1007\/s00484-012-0563-5",
+      "eprint_status": "archive",
+      "number": 3,
+      "publication": "International Journal of Biometeorology",
+      "keywords": "climate change, phenology, vernalisation, Betula pollen",
+      "divisions": [
+        "sci"
+      ],
+      "refereed": "TRUE",
+      "abstract": "In light of heightened interest in the response of pollen phenology to temperature, we investigated recent changes to the onset of Betula (birch) pollen seasons in central and southern England, including a test of predicted advancement of the Betula pollen season for London. We calculated onset of birch pollen seasons using daily airborne pollen data obtained at London, Plymouth and Worcester, determined trends in the start of the pollen season and compared timing of the birch pollen season with observed temperature patterns for the period 1995–2010. We found no overall change in the onset of birch pollen in the study period although there was evidence that the response to temperature was nonlinear and that a lower asymptotic start of the pollen season may exist. The start of the birch pollen season was strongly correlated with March mean temperature. These results reinforce previous findings showing that the timing of the birch pollen season in the UK is particularly sensitive to spring temperatures. The climate relationship shown here persists over both longer decadal-scale trends and shorter, seasonal trends as well as during periods of ‘sign-switching’ when cooler spring temperatures result in later start dates. These attributes, combined with the wide geographical coverage of airborne pollen monitoring sites, some with records extending back several decades, provide a powerful tool for the detection of climate change impacts, although local site factors and the requirement for winter chilling may be confounding factors.",
+      "userid": 10,
+      "eprintid": 2217,
+      "rioxx2_version": "NA",
+      "rev_number": 16,
+      "item_issues_count": 0,
+      "official_url": "http:\/\/link.springer.com\/article\/10.1007\/s00484-012-0563-5",
+      "rioxx2_description": "In light of heightened interest in the response of pollen phenology to temperature, we investigated recent changes to the onset of Betula (birch) pollen seasons in central and southern England, including a test of predicted advancement of the Betula pollen season for London. We calculated onset of birch pollen seasons using daily airborne pollen data obtained at London, Plymouth and Worcester, determined trends in the start of the pollen season and compared timing of the birch pollen season with observed temperature patterns for the period 1995–2010. We found no overall change in the onset of birch pollen in the study period although there was evidence that the response to temperature was nonlinear and that a lower asymptotic start of the pollen season may exist. The start of the birch pollen season was strongly correlated with March mean temperature. These results reinforce previous findings showing that the timing of the birch pollen season in the UK is particularly sensitive to spring temperatures. The climate relationship shown here persists over both longer decadal-scale trends and shorter, seasonal trends as well as during periods of ‘sign-switching’ when cooler spring temperatures result in later start dates. These attributes, combined with the wide geographical coverage of airborne pollen monitoring sites, some with records extending back several decades, provide a powerful tool for the detection of climate change impacts, although local site factors and the requirement for winter chilling may be confounding factors.",
+      "metadata_visibility": "show",
+      "rioxx2_source": "Print: 0020-7128  Online: 1432-1254",
+      "dir": "disk0\/00\/00\/22\/17",
+      "type": "article",
+      "full_text_status": "none",
+      "rioxx2_version_of_record": "http:\/\/dx.doi.org\/10.1007\/s00484-012-0563-5",
+      "uri": "https:\/\/eprints.worc.ac.uk\/id\/eprint\/2217",
+      "rioxx2_type": "Journal Article\/Review",
+      "status_changed": "2013-03-13 14:09:47",
+      "publisher": "Springer Berlin Heidelberg",
+      "date": 2013,
+      "rioxx2_subject": [
+        "Q1"
+      ]
+    }
+]
+
