@@ -49,6 +49,8 @@ for robj in rjson:
             aFirst = auth["name"]["given"]
             if(aLast and aFirst):
                 creators.append(aLast +", "+ aFirst)
+            elif(aLast):
+                creators.append(aLast)
         allAuthors += creators
 
         # If its got a keyword in the title or abstract
@@ -61,12 +63,12 @@ for robj in rjson:
                 rTitle, rAbs, ','.join(matchesL)))
             susAuthors += creators
         else:
-            ortsv.write("{}\t{}\n".format(
-                rTitle, rAbs))
+            ortsv.write("{}\t{}\n".format(rTitle, rAbs))
 
     except KeyError:
         skipped+=1
         continue
+
 rtsv.close()
 ortsv.close()
 
